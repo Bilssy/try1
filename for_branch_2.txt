@@ -1,2 +1,3 @@
 branch1 .txt
 perubahan 1 branch1
+perubahan 2 branch1
